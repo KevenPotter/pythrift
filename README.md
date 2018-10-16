@@ -1,0 +1,2 @@
+# pythrift
+Python客户端与Java服务端利用Thrift进行数据通信
